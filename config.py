@@ -53,15 +53,15 @@ Tʜɪs Is Aɴ Aᴅᴠᴀɴᴄᴇᴅ Aɴᴅ Yᴇᴛ Pᴏᴡᴇʀꜰᴜʟ Rᴇɴ�
 Usɪɴɢ Tʜɪs Bᴏᴛ Yᴏᴜ Cᴀɴ Rᴇɴᴀᴍᴇ & Cʜᴀɴɢᴇ Tʜᴜᴍʙɴᴀɪʟ Oꜰ Yᴏᴜʀ Fɪʟᴇ
 Yᴏᴜ Cᴀɴ Aʟsᴏ Cᴏɴᴠᴇʀᴛ Vɪᴅᴇᴏ Tᴏ Fɪʟᴇ & Fɪʟᴇ Tᴏ Vɪᴅᴇᴏ
 Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ
-Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @MarvalMovie 💞</b>"""
+Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @MarsalMovie 💞</b>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
 ├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/Marsel786>MARSEL</a> 
-├🍿All Movie And Series channel : <a href=https://t.me/MarselMovie>Lɴ Tᴇᴄʜ.ɢɪᴛ</a>
-├🍿MOVIE GROUP : <a href=https://t.me/MarselMovieGroup</a>
-├🍿🎬 ALL MARVAL MOVIE: <a href=https://t.me/MarvelStudioi</a>
-├UPDATES GROUP : <a href=https://t.me/MarselUpdates>Letest Group</a></b>     
+├🍿All Movie And Series channel : <a href=https://t.me/MarselMovie>Click Now</a>
+├🍿MOVIE GROUP : <a href=https://t.me/MarselMovieGroup>Click Here </a>
+├🍿🎬 ALL MARVAL MOVIE: <a href=https://t.me/MarvelStudioi>Click Here </a>
+├UPDATES GROUP : <a href=https://t.me/MarselUpdates >Letest Group </a></b>     
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -84,8 +84,8 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @marsel_786🙏🥲
     DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
-» DEV : <a href=https://t.me/MarselMovie>MARSEL</a>
-» Movie Channel  : <a href=https://t.me/MarselMovie</a>
+» DEV : <a href=@Marsel786>MARSEL</a>
+» Movie Channel  : <a href=https://t.me/MarselMovie>All Movie</a>
  """
 
     PROGRESS_BAR = """<b>\n
